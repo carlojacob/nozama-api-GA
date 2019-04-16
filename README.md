@@ -1,6 +1,6 @@
 # nozamA API
 
-This is the backend API for our mock e-commerce website we created. The database uses MongoDB and features four key models to hold our data: the user, cart, order, and product.
+This is the backend API for the mock e-commerce website that we created. The database uses MongoDB and features four key models to hold our data: the user, cart, order, and product.
 
 This is an unedited clone of the group/team project at General Assembly.
 
